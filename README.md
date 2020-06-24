@@ -4,7 +4,9 @@
 ## Instructions
 
 Read all files and take notes on each line
+
 Seek to understand how the application works
+
 Add a new feature to the application.
 
 ## Link to Deployed Application
