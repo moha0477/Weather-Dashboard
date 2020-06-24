@@ -38,4 +38,8 @@ THEN I am presented with the last searched city forecast
 ## Extra Feature
 
 Display a bold, colored message that describes the current weather to the dashboard. 
+
+## Application Demo
+
+![Weather Dashboardt](https://github.com/moha0477/Weather-Dashboard/blob/master/Assets/images/demo.jpg?raw=true)
  
